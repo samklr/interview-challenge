@@ -1,4 +1,4 @@
-# Take-Home Coding Exercises
+# Take-Home Coding Exercises Kensu
 
 ## What to expect?
 We expect that the amount of effort to do any of these exercises is in the range of about 4-6 hours of actual work. We also understand that your time is valuable, and in anyone's busy schedule that constitutes a fairly substantial chunk of time, so we really appreciate any effort you put in to helping us build a solid team.
